@@ -14,7 +14,7 @@ This Power BI project showcases HR insights for a fictional company, **Atlas Lab
 ## 📎 Files
 
 - `AtlasLabs_Dashboard.pbix`: Full Power BI dashboard file
-- `/screenshots`: Image previews of each dashboard tab
+- `/screenshots`: Image previews of each dashboard tab  
 
 
 ## 🚀 Tools Used
