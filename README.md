@@ -9,7 +9,7 @@ This Power BI project showcases HR insights for a fictional company, **Atlas Lab
 - **Overview**: Total employees, attrition rate, hiring trends
 - **Demographics**: Age, gender, ethnicity, marital status
 - **Performance Tracker**: Satisfaction, manager vs self ratings
-- **Attrition Analysis**: Tenure, department, travel, and overtime impact
+- **Attrition Analysis**: Tenure, department, travel, and overtime impact 
 
 ## 📎 Files
 
